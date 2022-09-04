@@ -1,0 +1,28 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color:white;
+    color: black;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: purple;
+}
+a:hover{
+    color:rgb(0,15,9);
+}
+table, tr,th,td,caption{
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
